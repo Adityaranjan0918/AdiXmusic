@@ -41,7 +41,7 @@ src="https://img.shields.io/badge/Credit%20To%20Owner-darkred?style=for-the-badg
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/venombolteop/VenomMusic&& cd VenomMusic`
+`git clone https://github.com/adityaranjan0918/adiXmusic&& cd adiXmusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
