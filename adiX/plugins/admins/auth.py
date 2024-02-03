@@ -9,8 +9,8 @@ from VenomX.utils.database import (
     get_authuser_names,
     save_authuser,
 )
-from VenomX.utils.decorators import AdminActual, language
-from VenomX.utils.inline import close_markup
+from adiX.utils.decorators import AdminActual, language
+from adiX.utils.inline import close_markup
 from config import BANNED_USERS, adminlist
 
 
